@@ -578,11 +578,13 @@ PRODUCT_PACKAGES += \
     libarcsoft_qnnhtp \
     libarcsoft_super_night_raw \
     libbitmlengine \
+    libbitmlenginev2 \
     libc++_shared \
     libcamera_dirty \
     libcamera_nn_stub \
     libcamera_scene_dxo \
     libcamera_scene \
+    libcamera_scene_dxo \
     libcamerapostproc \
     libcamlog \
     libcamxexternalformatutils \
@@ -605,6 +607,7 @@ PRODUCT_PACKAGES += \
     libcom.xiaomi.grallocutils \
     libcom.xiaomi.metadatautils \
     libcom.xiaomi.pluginutils \
+    libcup_preview \
     libcvface_api \
     libfocus \
     libgf_ca \
@@ -656,6 +659,7 @@ PRODUCT_PACKAGES += \
     libopestriping \
     libos \
     libportrait_blur \
+    libpowercore \
     libqll10 \
     libqllengine \
     librelight_only \
